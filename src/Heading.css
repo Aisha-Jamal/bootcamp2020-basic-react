@@ -1,0 +1,23 @@
+.myname{
+    text-align: center;
+}
+.heading {
+    text-align: center;
+}
+.ordered{
+    background-color: antiquewhite;
+    text-align: center;
+    list-style-position: inside;
+    font-weight: bold;
+}
+.unordered{
+    background-color: gray;
+    text-align: center;
+    list-style-position: inside;
+    font-weight: bold;
+}
+.para {
+    text-align: center;
+    background-color: lightblue;
+    font-weight: bold;
+}
